@@ -6,7 +6,7 @@
 #### Ubicación con Google Maps
 #### Envío de formulario de contacto con PHPMailer, JQuery/Ajax y alertas con sweetalert.js
 #### Logos "Il Mio Sole" y "Felice" diseñados por mí.
-#### Redacción por mí
+#### SEO y Redacción por mí
 
 ##### **Página en proceso y constante actualización.
 ##### Prox. Pasos: Formulario de pre-matriculación
